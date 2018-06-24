@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solidity Dailies on Sidewalk Consulting</title>
+    <link>http://sidewalk.consulting/categories/solidity-dailies/</link>
+    <description>Recent content in Solidity Dailies on Sidewalk Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jun 2018 17:26:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://sidewalk.consulting/categories/solidity-dailies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daily Solidity Update - </title>
+      <link>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-13-daily-updates/</link>
+      <pubDate>Wed, 13 Jun 2018 17:26:00 -0700</pubDate>
+      
+      <guid>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-13-daily-updates/</guid>
+      <description>We&amp;rsquo;re keeping it short but keeping it real in today&amp;rsquo;s update. A
+Solidity Community Updates Short and somewhat cursory write up on a lottery smart contract, but it uses an oracle for random numbers which might be interesting to some of you all http://jacksonng.org/Lottery-Contract-2
+Not really Solidity related, but closely related to the ecosystem, I noticed that the last commit in the web3 develop repo was May 17 and, it seems like there&amp;rsquo;s only been light activity in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Daily Solidity Update - the Solidity dev community is busy and Jimmy Wales says blockchain can’t be banned.</title>
+      <link>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-12-daily-updates/</link>
+      <pubDate>Tue, 12 Jun 2018 20:35:00 -0700</pubDate>
+      
+      <guid>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-12-daily-updates/</guid>
+      <description>Happy Tuesday, blockchain engineers (and counsel)!
+In today’s update we notice the Solidity open source dev community is busy, I invite you to join me at the first LA Smart Contract Meetup, and Jimmy Wales says blockchain can’t be banned. But he’s wrong.
+Some Solidity updates for your Tuesday There&amp;rsquo;s an updated or refreshed guide on Truffle migrations on Sitepoint, which is kind of helpful. Speaking candidly, my truffle migrate command has been failing me of late.</description>
+    </item>
+    
+    <item>
+      <title>Daily Solidity Update - storing data on chain and Wyoming gets into the blockchain regulation business.</title>
+      <link>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-05-daily-updates/</link>
+      <pubDate>Tue, 05 Jun 2018 22:54:00 -0700</pubDate>
+      
+      <guid>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-05-daily-updates/</guid>
+      <description>Solidity Community Updates On the solidity gitter channel overnight, there was a long discussion from a new ethereum developer who&amp;rsquo;s trying to figure out how to store images on the blockchain. Anyone who&amp;rsquo;s spent time with this knows you don&amp;rsquo;t want to store that much data on chain.
+One of the community members cautioned him that &amp;ldquo;storing an image would cost more gas than a buying a car,&amp;rdquo; but he persisted looking for different compression libraries and kinds of stuff and kept at it with the community.</description>
+    </item>
+    
+  </channel>
+</rss>

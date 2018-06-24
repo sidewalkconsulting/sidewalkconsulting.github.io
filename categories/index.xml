@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sidewalk Consulting</title>
+    <link>http://sidewalk.consulting/categories/</link>
+    <description>Recent content in Categories on Sidewalk Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://sidewalk.consulting/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Icos Securities</title>
+      <link>http://sidewalk.consulting/categories/icos-securities/</link>
+      <pubDate>Fri, 08 Jun 2018 18:23:00 -0700</pubDate>
+      
+      <guid>http://sidewalk.consulting/categories/icos-securities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solidity</title>
+      <link>http://sidewalk.consulting/categories/solidity/</link>
+      <pubDate>Sat, 23 Jun 2018 14:40:59 -0700</pubDate>
+      
+      <guid>http://sidewalk.consulting/categories/solidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solidity Dailies</title>
+      <link>http://sidewalk.consulting/categories/solidity-dailies/</link>
+      <pubDate>Wed, 13 Jun 2018 17:26:00 -0700</pubDate>
+      
+      <guid>http://sidewalk.consulting/categories/solidity-dailies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
