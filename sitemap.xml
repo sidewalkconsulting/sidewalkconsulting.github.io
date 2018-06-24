@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-23-daily-updates/</loc>
+    <lastmod>2018-06-23T14:40:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-13-daily-updates/</loc>
+    <lastmod>2018-06-13T17:26:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-12-daily-updates/</loc>
+    <lastmod>2018-06-12T20:35:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-08-ripple-complaint-analysis/</loc>
+    <lastmod>2018-06-08T18:23:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-05-daily-updates/</loc>
+    <lastmod>2018-06-05T22:54:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-06/2018-06-04-daily-updates/</loc>
+    <lastmod>2018-06-04T22:54:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-05/2018-05-30-daily-updates/</loc>
+    <lastmod>2018-05-30T18:49:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-05/2018-05-29-daily-solidity-updates/</loc>
+    <lastmod>2018-05-29T19:11:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/2018-05/2018-05-29-hello-world/</loc>
+    <lastmod>2018-05-29T19:11:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/elixir/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/rust/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/solidity/</loc>
+    <lastmod>2018-06-23T14:40:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/tech-leadership/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/categories/icos-securities/</loc>
+    <lastmod>2018-06-08T18:23:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/</loc>
+    <lastmod>2018-06-23T14:40:59-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/categories/solidity/</loc>
+    <lastmod>2018-06-23T14:40:59-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/categories/solidity-dailies/</loc>
+    <lastmod>2018-06-13T17:26:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sidewalk.consulting/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
